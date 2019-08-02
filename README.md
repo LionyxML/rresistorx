@@ -9,8 +9,9 @@ Features:
 
 Binaries:
 - Binaries are provided for Windows 10 - 64bits 
+- MacOS > 10.14.5
 
-Screenshots
+Screenshot
 ----------
 ![Main Screen - Windows](images/1.png)
 
