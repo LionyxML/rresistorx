@@ -1,5 +1,5 @@
-rResistor[X]
-------------
+rx-resistor
+-----------
 
 This is a python3/tk written software aiming electronics students.
 

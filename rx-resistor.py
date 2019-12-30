@@ -3,6 +3,7 @@
 # Programa: Treino de leitura de resistores
 # Autor   : Rahul Martim Juliato
 # Versão  : 0.1  -  24.10.2018
+# Versão  : 0.2  -  29.12.2019 - Nome mudado de rresistorX para rx-resistor
 
 
 #---===[0. Bibliotecas]===---
@@ -24,16 +25,17 @@ def quit():
 def sobre():
     """ Mostra as informações do programa
     """
-    mb.showinfo("r[RESISTOR]X",'''
+    mb.showinfo("rx-resistor",'''
 
-    r[RESISTOR]X
+    rx-resistor
 
 Programa para treino de interpretação de faixas de resistores.
 
-Versão: 0.1
+Versão: 0.2
 
-Autor: Rahul Martim Juliato
-(rahul.juliato@gmail.com)
+Autor : Rahul Martim Juliato
+E-mail: rahul.juliato@gmail.com
+URL   : www.rahuljuliato.com
 
 ''')
 
@@ -181,7 +183,7 @@ def desenha_botoes():
 #---===[2. Início da geração da Janela]===---
 # 2.0. Definições principais da janela
 janela = tk.Tk()
-janela.wm_title('r[RESISTOR]X v0.1')
+janela.wm_title('rx-resistor v0.2')
 janela.wm_minsize(600,220)
 janela.grid_anchor(anchor='c')
 #janela.tk_setPalette('white')
