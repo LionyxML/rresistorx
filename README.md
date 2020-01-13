@@ -13,6 +13,7 @@ Binaries:
 
 Screenshot
 ----------
+![Example](images/3.gif)
 ![Main Screen - Windows](images/1.png)
 
 
