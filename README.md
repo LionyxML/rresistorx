@@ -1,7 +1,7 @@
 rx-resistor
 -----------
 
-This is a python3/tk written software aiming electronics students.
+This is a python3/tk written software aiming to help electronics students being able to identify resistors values easily.
 
 Features:
 - 4 or 5 bands
@@ -9,7 +9,7 @@ Features:
 
 Binaries:
 - Binaries are provided for Windows 10 - 64bits 
-- MacOS > 10.14.5
+- MacOS >= 10.14.5
 
 Screenshot
 ----------
